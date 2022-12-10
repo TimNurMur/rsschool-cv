@@ -1,2 +1,2 @@
 # rsschool-cv
-init: start md task
+https://timnurmur.github.io/rsschool-cv/cv
