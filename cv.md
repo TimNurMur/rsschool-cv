@@ -69,7 +69,7 @@ I plan to study:
 ### **Code examples:**
 
 ***5 kyu***
-*RGB To Hex Conversion*
+*RGB To Hex Conversion:*
 ```
 function rgb(r, g, b){
   const arr = [r, g, b];
